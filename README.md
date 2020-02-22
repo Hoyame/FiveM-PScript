@@ -10,6 +10,5 @@ J'ai mit quelque trucs, si j'ai envie je vais peut-être release le reste :)
 
 # Pré-Requis 
 - FiveM
-- EssentialMode
 - corazon_core
 
