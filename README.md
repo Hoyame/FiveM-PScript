@@ -1,11 +1,9 @@
+[![HitCount](http://hits.dwyl.com/corazon2/FiveM-GameMode.svg)](http://hits.dwyl.com/corazon2/FiveM-GameMode)
+
 # FiveM-GameMode
 Je release ce projet car j'ai plus l'envie ni la force de continuer. Ce référentiel contient tout ce que j'ai crée pour mon gamemode dédiée a FiveM.
 
-[![HitCount](http://hits.dwyl.com/corazon2/FiveM-GameMode.svg)](http://hits.dwyl.com/corazon2/FiveM-GameMode)
-
-
 J'ai mit quelque trucs, si j'ai envie je vais peut-être release le reste :)
-
 
 Tenez quelques clip des creations disponibles sur ce referenciel : 
 ```
