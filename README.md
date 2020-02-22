@@ -9,6 +9,7 @@ J'ai mit quelque trucs, si j'ai envie je vais peut-être release le reste :)
 > Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment
 
 # Pré-Requis 
+- FiveM
 - EssentialMode
 - corazon_core
 
