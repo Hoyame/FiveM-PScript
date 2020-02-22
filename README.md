@@ -3,5 +3,5 @@ Je release ce projet car j'ai plus l'envie ni la force de continuer. Ce référe
 
 
 ```diff
-Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment
+- Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment
 ```
