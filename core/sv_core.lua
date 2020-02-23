@@ -22,9 +22,6 @@ end
 
 
 -------------------------------------------------------------
-
---local license = GetPlayerIdentifiers(source)[1]
-
 function lastposplayer(license)
 	return MySQL.Sync.fetchScalar("SELECT lastpos FROM users WHERE license = @license", {['@license'] = license})
 end
