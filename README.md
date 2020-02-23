@@ -6,13 +6,12 @@ Je release ce projet car j'ai plus l'envie ni la force de continuer. Ce référe
 J'ai mit quelque trucs, si j'ai envie je vais peut-être release le reste :)
 
 
-> No Plug N Play
-
-> Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment
-
 # Pré-Requis 
 - fivem
 - corazon_core (pas release)
 
 # Information
 Je ne release pas ces scripts pour que vous puissez les inserer sur votre serveur et les utiliser, mais plutot pour aider ce qu'ils sont en difficulté, donc arretez de dire que je fait ça pour vous faire chier, alors que je suis deja gentil a avoir release ça.
+
+- No Plug N Play
+- Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment
