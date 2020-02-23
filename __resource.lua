@@ -35,10 +35,3 @@ server_script 'core/world/sv_appartement.lua'
 client_script 'core/stores/sh_shops.lua'
 client_script 'core/stores/sh_lester.lua'
 client_script 'core/stores/sh_location.lua'
-
-
---[[
-dependencies {
-	'skinchanger'
-}
---]]
