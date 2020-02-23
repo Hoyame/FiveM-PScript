@@ -7,7 +7,8 @@ J'ai mit quelque trucs, si j'ai envie je vais peut-être release le reste :)
 
 
 # Pré-Requis 
-- fivem
+- [fivem](https://fivem.net/)
+- [cmenu](https://github.com/corazon2/FiveM-CMenu)
 - corazon_core (pas release)
 
 # Information
