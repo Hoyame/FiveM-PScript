@@ -14,4 +14,4 @@ J'ai mit quelque trucs, si j'ai envie je vais peut-être release le reste :)
 Je ne release pas ces scripts pour que vous puissez les inserer sur votre serveur et les utiliser, mais plutot pour aider ce qu'ils sont en difficulté, donc arretez de dire que "je fait ça pour vous faire chier" , alors que je suis deja gentil a avoir release ça.
 
 - No Plug N Play
-- Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment
+- Inutile de me demander les fichiers pour faire fonctionner le gm, je ne les release pas pour le moment.
