@@ -6,17 +6,11 @@ local identityMenu = {
 			if btn.name == "~g~Confirmer" then
 				local buttons, identityData = self.Menu["identité"].b, {}
 				
-				identityData = {
-					n = buttons[1].askValue or buttons[1].ask,
-					l = buttons[2].askValue or buttons[2].ask,
-					d = { buttons[3].slidename, buttons[4].slidename, buttons[5].slidename },
-				}
-
 				local nameIdentity = buttons[1].askValue or buttons[1].ask
 				local lieuIdentity = buttons[2].askValue or buttons[2].ask
-				local jourIdentity = buttons[3].slidename
-				local moisIdentity = buttons[4].slidename
-				local yearIdentity = buttons[5].slidename
+				local lieuIdentity = buttons[3].askValue or buttons[3].ask
+				local lieuIdentity = buttons[4].askValue or buttons[4].ask
+				local lieuIdentity = buttons[5].askValue or buttons[5].ask
 
 				if not identityData or not identityData.l or string.len(identityData.l) <= 0 or not identityData.d or tableCount(identityData.d) ~= 3 or not identityData.d[1] or identityData.d[1] == "0" then 
 					ShowAboveRadarMessage("~r~Attention.~n~~w~Vous n'avez pas correctement complété la catégorie identité.") return 
@@ -31,17 +25,11 @@ local identityMenu = {
 			if btn.name == "~b~Valider" then
 				local buttons, identityData = self.Menu["identité"].b, {}
 				
-				identityData = {
-					n = buttons[1].askValue or buttons[1].ask,
-					l = buttons[2].askValue or buttons[2].ask,
-					d = { buttons[3].slidename, buttons[4].slidename, buttons[5].slidename },
-				}
-
 				local nameIdentity = buttons[1].askValue or buttons[1].ask
 				local lieuIdentity = buttons[2].askValue or buttons[2].ask
-				local jourIdentity = buttons[3].slidename
-				local moisIdentity = buttons[4].slidename
-				local yearIdentity = buttons[5].slidename
+				local lieuIdentity = buttons[3].askValue or buttons[3].ask
+				local lieuIdentity = buttons[4].askValue or buttons[4].ask
+				local lieuIdentity = buttons[5].askValue or buttons[5].ask
 
 				if not identityData or not identityData.l or string.len(identityData.l) <= 0 or not identityData.d or tableCount(identityData.d) ~= 3 or not identityData.d[1] or identityData.d[1] == "0" then 
 					ShowAboveRadarMessage("~r~Attention.~n~~w~Vous n'avez pas correctement complété la catégorie identité.") return 
