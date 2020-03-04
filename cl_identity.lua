@@ -83,14 +83,14 @@ local identityMenu = {
 	}
 }
 
-RegisterNetEvent("corazon:tempChar")
-AddEventHandler("corazon:tempChar", function(id)
+RegisterNetEvent("corazon_id:goCreateIdentity")
+AddEventHandler("corazon_id:goCreateIdentity", function()
 	CreateMenu(identityMenu)
 end)
 
 
 RegisterCommand("identité", function()
-    TriggerEvent("corazon:tempChar")
+    TriggerEvent("corazon_id:goCreateIdentity")
 end)
 
 
